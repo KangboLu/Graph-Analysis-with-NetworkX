@@ -1,0 +1,8 @@
+A,B,friend
+A,B,neighbor
+A,B,coworker
+A,C,coworker
+B,C,neighbor
+B,C,family
+B,C,coworker
+C,D,coworker
