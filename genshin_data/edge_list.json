@@ -1,0 +1,1582 @@
+[
+    {
+        "type": "voice",
+        "from": "Albedo",
+        "to": "Klee"
+    },
+    {
+        "type": "voice",
+        "from": "Amber",
+        "to": "Klee"
+    },
+    {
+        "type": "story",
+        "from": "Eula",
+        "to": "Amber"
+    },
+    {
+        "type": "voice",
+        "from": "Bennett",
+        "to": "Amber"
+    },
+    {
+        "type": "voice",
+        "from": "Diona",
+        "to": "Xiangling"
+    },
+    {
+        "type": "voice",
+        "from": "Fischl",
+        "to": "Bennett"
+    },
+    {
+        "type": "voice",
+        "from": "Ningguang",
+        "to": "Ganyu"
+    },
+    {
+        "type": "voice",
+        "from": "Razor",
+        "to": "Diluc"
+    },
+    {
+        "type": "voice",
+        "from": "Sucrose",
+        "to": "Eula"
+    },
+    {
+        "type": "voice",
+        "from": "Traveler",
+        "to": "Klee"
+    },
+    {
+        "type": "voice",
+        "from": "Venti",
+        "to": "Barbara"
+    },
+    {
+        "type": "voice",
+        "from": "Venti",
+        "to": "Eula"
+    },
+    {
+        "type": "voice",
+        "from": "Xiangling",
+        "to": "Ganyu"
+    },
+    {
+        "type": "voice",
+        "from": "Xinyan",
+        "to": "Beidou"
+    },
+    {
+        "type": "voice",
+        "from": "Zhongli",
+        "to": "Keqing"
+    },
+    {
+        "type": "voice",
+        "from": "Barbara",
+        "to": "Amber"
+    },
+    {
+        "type": "story",
+        "from": "Ningguang",
+        "to": "Beidou"
+    },
+    {
+        "type": "story",
+        "from": "Xiangling",
+        "to": "Beidou"
+    },
+    {
+        "type": "voice",
+        "from": "Hu Tao",
+        "to": "Qiqi"
+    },
+    {
+        "type": "story",
+        "from": "Diluc",
+        "to": "Jean"
+    },
+    {
+        "type": "story",
+        "from": "Klee",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Keqing",
+        "to": "Ganyu"
+    },
+    {
+        "type": "voice",
+        "from": "Lisa",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Lisa",
+        "to": "Klee"
+    },
+    {
+        "type": "voice",
+        "from": "Mona",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Noelle",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Qiqi",
+        "to": "Hu Tao"
+    },
+    {
+        "type": "voice",
+        "from": "Rosaria",
+        "to": "Diluc"
+    },
+    {
+        "type": "voice",
+        "from": "Rosaria",
+        "to": "Kaeya"
+    },
+    {
+        "type": "voice",
+        "from": "Xingqiu",
+        "to": "Chongyun"
+    },
+    {
+        "type": "story",
+        "from": "Chongyun",
+        "to": "Xingqiu"
+    },
+    {
+        "type": "story",
+        "from": "Hu Tao",
+        "to": "Xingqiu"
+    },
+    {
+        "type": "voice",
+        "from": "Xinyan",
+        "to": "Ningguang"
+    },
+    {
+        "type": "voice",
+        "from": "Yanfei",
+        "to": "Ningguang"
+    },
+    {
+        "type": "voice",
+        "from": "Barbara",
+        "to": "Rosaria"
+    },
+    {
+        "type": "voice",
+        "from": "Diluc",
+        "to": "Lisa"
+    },
+    {
+        "type": "voice",
+        "from": "Ganyu",
+        "to": "Xingqiu"
+    },
+    {
+        "type": "voice",
+        "from": "Hu Tao",
+        "to": "Keqing"
+    },
+    {
+        "type": "voice",
+        "from": "Hu Tao",
+        "to": "Xiangling"
+    },
+    {
+        "type": "voice",
+        "from": "Keqing",
+        "to": "Ningguang"
+    },
+    {
+        "type": "voice",
+        "from": "Klee",
+        "to": "Amber"
+    },
+    {
+        "type": "voice",
+        "from": "Lisa",
+        "to": "Albedo"
+    },
+    {
+        "type": "voice",
+        "from": "Noelle",
+        "to": "Fischl"
+    },
+    {
+        "type": "voice",
+        "from": "Razor",
+        "to": "Venti"
+    },
+    {
+        "type": "voice",
+        "from": "Traveler",
+        "to": "Diluc"
+    },
+    {
+        "type": "voice",
+        "from": "Venti",
+        "to": "Mona"
+    },
+    {
+        "type": "voice",
+        "from": "Xiangling",
+        "to": "Hu Tao"
+    },
+    {
+        "type": "voice",
+        "from": "Xingqiu",
+        "to": "Xiangling"
+    },
+    {
+        "type": "voice",
+        "from": "Zhongli",
+        "to": "Tartaglia"
+    },
+    {
+        "type": "voice",
+        "from": "Albedo",
+        "to": "Sucrose"
+    },
+    {
+        "type": "voice",
+        "from": "Albedo",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Amber",
+        "to": "Noelle"
+    },
+    {
+        "type": "voice",
+        "from": "Barbara",
+        "to": "Venti"
+    },
+    {
+        "type": "voice",
+        "from": "Beidou",
+        "to": "Kaedehara Kazuha"
+    },
+    {
+        "type": "voice",
+        "from": "Bennett",
+        "to": "Barbara"
+    },
+    {
+        "type": "voice",
+        "from": "Chongyun",
+        "to": "Zhongli"
+    },
+    {
+        "type": "voice",
+        "from": "Chongyun",
+        "to": "Xingqiu"
+    },
+    {
+        "type": "voice",
+        "from": "Diluc",
+        "to": "Kaeya"
+    },
+    {
+        "type": "voice",
+        "from": "Diona",
+        "to": "Diluc"
+    },
+    {
+        "type": "voice",
+        "from": "Eula",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Fischl",
+        "to": "Lisa"
+    },
+    {
+        "type": "voice",
+        "from": "Jean",
+        "to": "Rosaria"
+    },
+    {
+        "type": "voice",
+        "from": "Kaeya",
+        "to": "Klee"
+    },
+    {
+        "type": "voice",
+        "from": "Klee",
+        "to": "Sucrose"
+    },
+    {
+        "type": "voice",
+        "from": "Lisa",
+        "to": "Diluc"
+    },
+    {
+        "type": "voice",
+        "from": "Ningguang",
+        "to": "Keqing"
+    },
+    {
+        "type": "voice",
+        "from": "Razor",
+        "to": "Klee"
+    },
+    {
+        "type": "voice",
+        "from": "Sucrose",
+        "to": "Lisa"
+    },
+    {
+        "type": "voice",
+        "from": "Xiangling",
+        "to": "Zhongli"
+    },
+    {
+        "type": "voice",
+        "from": "Xiangling",
+        "to": "Xinyan"
+    },
+    {
+        "type": "story",
+        "from": "Albedo",
+        "to": "Xingqiu"
+    },
+    {
+        "type": "voice",
+        "from": "Albedo",
+        "to": "Xingqiu"
+    },
+    {
+        "type": "voice",
+        "from": "Beidou",
+        "to": "Ningguang"
+    },
+    {
+        "type": "voice",
+        "from": "Diluc",
+        "to": "Mona"
+    },
+    {
+        "type": "voice",
+        "from": "Fischl",
+        "to": "Mona"
+    },
+    {
+        "type": "voice",
+        "from": "Ganyu",
+        "to": "Beidou"
+    },
+    {
+        "type": "voice",
+        "from": "Jean",
+        "to": "Klee"
+    },
+    {
+        "type": "voice",
+        "from": "Jean",
+        "to": "Noelle"
+    },
+    {
+        "type": "story",
+        "from": "Noelle",
+        "to": "Kaeya"
+    },
+    {
+        "type": "voice",
+        "from": "Lisa",
+        "to": "Amber"
+    },
+    {
+        "type": "voice",
+        "from": "Razor",
+        "to": "Bennett"
+    },
+    {
+        "type": "voice",
+        "from": "Rosaria",
+        "to": "Venti"
+    },
+    {
+        "type": "story",
+        "from": "Beidou",
+        "to": "Xiangling"
+    },
+    {
+        "type": "story",
+        "from": "Chongyun",
+        "to": "Xiangling"
+    },
+    {
+        "type": "voice",
+        "from": "Xiao",
+        "to": "Hu Tao"
+    },
+    {
+        "type": "voice",
+        "from": "Xiao",
+        "to": "Ganyu"
+    },
+    {
+        "type": "voice",
+        "from": "Xingqiu",
+        "to": "Xinyan"
+    },
+    {
+        "type": "voice",
+        "from": "Xinyan",
+        "to": "Zhongli"
+    },
+    {
+        "type": "voice",
+        "from": "Yanfei",
+        "to": "Eula"
+    },
+    {
+        "type": "voice",
+        "from": "Amber",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Amber",
+        "to": "Kaeya"
+    },
+    {
+        "type": "story",
+        "from": "Klee",
+        "to": "Amber"
+    },
+    {
+        "type": "voice",
+        "from": "Beidou",
+        "to": "Xinyan"
+    },
+    {
+        "type": "voice",
+        "from": "Bennett",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Chongyun",
+        "to": "Hu Tao"
+    },
+    {
+        "type": "voice",
+        "from": "Diona",
+        "to": "Venti"
+    },
+    {
+        "type": "voice",
+        "from": "Eula",
+        "to": "Yanfei"
+    },
+    {
+        "type": "voice",
+        "from": "Hu Tao",
+        "to": "Xingqiu"
+    },
+    {
+        "type": "story",
+        "from": "Qiqi",
+        "to": "Hu Tao"
+    },
+    {
+        "type": "story",
+        "from": "Eula",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Kaeya",
+        "to": "Albedo"
+    },
+    {
+        "type": "voice",
+        "from": "Keqing",
+        "to": "Xiao"
+    },
+    {
+        "type": "voice",
+        "from": "Keqing",
+        "to": "Yanfei"
+    },
+    {
+        "type": "voice",
+        "from": "Klee",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Klee",
+        "to": "Diluc"
+    },
+    {
+        "type": "voice",
+        "from": "Ningguang",
+        "to": "Yanfei"
+    },
+    {
+        "type": "story",
+        "from": "Yanfei",
+        "to": "Ningguang"
+    },
+    {
+        "type": "voice",
+        "from": "Noelle",
+        "to": "Kaeya"
+    },
+    {
+        "type": "voice",
+        "from": "Sucrose",
+        "to": "Noelle"
+    },
+    {
+        "type": "voice",
+        "from": "Venti",
+        "to": "Razor"
+    },
+    {
+        "type": "voice",
+        "from": "Yanfei",
+        "to": "Ganyu"
+    },
+    {
+        "type": "voice",
+        "from": "Albedo",
+        "to": "Lisa"
+    },
+    {
+        "type": "voice",
+        "from": "Bennett",
+        "to": "Klee"
+    },
+    {
+        "type": "voice",
+        "from": "Ganyu",
+        "to": "Xiao"
+    },
+    {
+        "type": "voice",
+        "from": "Jean",
+        "to": "Lisa"
+    },
+    {
+        "type": "voice",
+        "from": "Jean",
+        "to": "Amber"
+    },
+    {
+        "type": "voice",
+        "from": "Jean",
+        "to": "Diluc"
+    },
+    {
+        "type": "voice",
+        "from": "Jean",
+        "to": "Sucrose"
+    },
+    {
+        "type": "voice",
+        "from": "Kaeya",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Kaeya",
+        "to": "Lisa"
+    },
+    {
+        "type": "voice",
+        "from": "Kaeya",
+        "to": "Amber"
+    },
+    {
+        "type": "voice",
+        "from": "Klee",
+        "to": "Albedo"
+    },
+    {
+        "type": "story",
+        "from": "Albedo",
+        "to": "Klee"
+    },
+    {
+        "type": "voice",
+        "from": "Noelle",
+        "to": "Barbara"
+    },
+    {
+        "type": "voice",
+        "from": "Razor",
+        "to": "Barbara"
+    },
+    {
+        "type": "voice",
+        "from": "Rosaria",
+        "to": "Lisa"
+    },
+    {
+        "type": "voice",
+        "from": "Sucrose",
+        "to": "Klee"
+    },
+    {
+        "type": "voice",
+        "from": "Traveler",
+        "to": "Qiqi"
+    },
+    {
+        "type": "voice",
+        "from": "Zhongli",
+        "to": "Ganyu"
+    },
+    {
+        "type": "voice",
+        "from": "Zhongli",
+        "to": "Yanfei"
+    },
+    {
+        "type": "voice",
+        "from": "Amber",
+        "to": "Eula"
+    },
+    {
+        "type": "voice",
+        "from": "Barbara",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Barbara",
+        "to": "Noelle"
+    },
+    {
+        "type": "voice",
+        "from": "Beidou",
+        "to": "Ganyu"
+    },
+    {
+        "type": "voice",
+        "from": "Eula",
+        "to": "Diona"
+    },
+    {
+        "type": "voice",
+        "from": "Keqing",
+        "to": "Xiangling"
+    },
+    {
+        "type": "voice",
+        "from": "Klee",
+        "to": "Lisa"
+    },
+    {
+        "type": "voice",
+        "from": "Klee",
+        "to": "Mona"
+    },
+    {
+        "type": "story",
+        "from": "Albedo",
+        "to": "Lisa"
+    },
+    {
+        "type": "story",
+        "from": "Eula",
+        "to": "Lisa"
+    },
+    {
+        "type": "story",
+        "from": "Razor",
+        "to": "Lisa"
+    },
+    {
+        "type": "voice",
+        "from": "Mona",
+        "to": "Venti"
+    },
+    {
+        "type": "voice",
+        "from": "Qiqi",
+        "to": "Xinyan"
+    },
+    {
+        "type": "story",
+        "from": "Albedo",
+        "to": "Sucrose"
+    },
+    {
+        "type": "voice",
+        "from": "Xiangling",
+        "to": "Chongyun"
+    },
+    {
+        "type": "voice",
+        "from": "Xiao",
+        "to": "Zhongli"
+    },
+    {
+        "type": "voice",
+        "from": "Xiao",
+        "to": "Beidou"
+    },
+    {
+        "type": "voice",
+        "from": "Xiao",
+        "to": "Venti"
+    },
+    {
+        "type": "voice",
+        "from": "Xingqiu",
+        "to": "Hu Tao"
+    },
+    {
+        "type": "voice",
+        "from": "Xingqiu",
+        "to": "Albedo"
+    },
+    {
+        "type": "story",
+        "from": "Klee",
+        "to": "Albedo"
+    },
+    {
+        "type": "voice",
+        "from": "Amber",
+        "to": "Bennett"
+    },
+    {
+        "type": "voice",
+        "from": "Bennett",
+        "to": "Razor"
+    },
+    {
+        "type": "voice",
+        "from": "Chongyun",
+        "to": "Xiao"
+    },
+    {
+        "type": "story",
+        "from": "Xingqiu",
+        "to": "Chongyun"
+    },
+    {
+        "type": "voice",
+        "from": "Diona",
+        "to": "Kaeya"
+    },
+    {
+        "type": "voice",
+        "from": "Diona",
+        "to": "Albedo"
+    },
+    {
+        "type": "voice",
+        "from": "Eula",
+        "to": "Lisa"
+    },
+    {
+        "type": "voice",
+        "from": "Ganyu",
+        "to": "Keqing"
+    },
+    {
+        "type": "voice",
+        "from": "Jean",
+        "to": "Barbara"
+    },
+    {
+        "type": "voice",
+        "from": "Kaeya",
+        "to": "Diluc"
+    },
+    {
+        "type": "voice",
+        "from": "Keqing",
+        "to": "Beidou"
+    },
+    {
+        "type": "voice",
+        "from": "Lisa",
+        "to": "Noelle"
+    },
+    {
+        "type": "voice",
+        "from": "Mona",
+        "to": "Lisa"
+    },
+    {
+        "type": "story",
+        "from": "Zhongli",
+        "to": "Ningguang"
+    },
+    {
+        "type": "voice",
+        "from": "Noelle",
+        "to": "Klee"
+    },
+    {
+        "type": "voice",
+        "from": "Qiqi",
+        "to": "Xiao"
+    },
+    {
+        "type": "voice",
+        "from": "Rosaria",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Sucrose",
+        "to": "Albedo"
+    },
+    {
+        "type": "voice",
+        "from": "Traveler",
+        "to": "Kaeya"
+    },
+    {
+        "type": "voice",
+        "from": "Traveler",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Venti",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Venti",
+        "to": "Diluc"
+    },
+    {
+        "type": "voice",
+        "from": "Venti",
+        "to": "Diona"
+    },
+    {
+        "type": "voice",
+        "from": "Xinyan",
+        "to": "Chongyun"
+    },
+    {
+        "type": "voice",
+        "from": "Yanfei",
+        "to": "Xingqiu"
+    },
+    {
+        "type": "voice",
+        "from": "Yanfei",
+        "to": "Hu Tao"
+    },
+    {
+        "type": "voice",
+        "from": "Zhongli",
+        "to": "Ningguang"
+    },
+    {
+        "type": "voice",
+        "from": "Amber",
+        "to": "Albedo"
+    },
+    {
+        "type": "voice",
+        "from": "Barbara",
+        "to": "Lisa"
+    },
+    {
+        "type": "voice",
+        "from": "Barbara",
+        "to": "Diluc"
+    },
+    {
+        "type": "voice",
+        "from": "Beidou",
+        "to": "Zhongli"
+    },
+    {
+        "type": "voice",
+        "from": "Chongyun",
+        "to": "Qiqi"
+    },
+    {
+        "type": "story",
+        "from": "Kaeya",
+        "to": "Diluc"
+    },
+    {
+        "type": "voice",
+        "from": "Diona",
+        "to": "Lisa"
+    },
+    {
+        "type": "voice",
+        "from": "Ganyu",
+        "to": "Yanfei"
+    },
+    {
+        "type": "voice",
+        "from": "Jean",
+        "to": "Kaeya"
+    },
+    {
+        "type": "voice",
+        "from": "Jean",
+        "to": "Eula"
+    },
+    {
+        "type": "voice",
+        "from": "Kaedehara Kazuha",
+        "to": "Beidou"
+    },
+    {
+        "type": "voice",
+        "from": "Kaeya",
+        "to": "Fischl"
+    },
+    {
+        "type": "voice",
+        "from": "Klee",
+        "to": "Diona"
+    },
+    {
+        "type": "voice",
+        "from": "Lisa",
+        "to": "Razor"
+    },
+    {
+        "type": "voice",
+        "from": "Lisa",
+        "to": "Sucrose"
+    },
+    {
+        "type": "voice",
+        "from": "Mona",
+        "to": "Diluc"
+    },
+    {
+        "type": "voice",
+        "from": "Ningguang",
+        "to": "Xingqiu"
+    },
+    {
+        "type": "voice",
+        "from": "Sucrose",
+        "to": "Fischl"
+    },
+    {
+        "type": "voice",
+        "from": "Traveler",
+        "to": "Bennett"
+    },
+    {
+        "type": "voice",
+        "from": "Traveler",
+        "to": "Razor"
+    },
+    {
+        "type": "voice",
+        "from": "Yanfei",
+        "to": "Keqing"
+    },
+    {
+        "type": "voice",
+        "from": "Chongyun",
+        "to": "Xiangling"
+    },
+    {
+        "type": "voice",
+        "from": "Diona",
+        "to": "Barbara"
+    },
+    {
+        "type": "voice",
+        "from": "Diona",
+        "to": "Klee"
+    },
+    {
+        "type": "voice",
+        "from": "Eula",
+        "to": "Sucrose"
+    },
+    {
+        "type": "voice",
+        "from": "Fischl",
+        "to": "Rosaria"
+    },
+    {
+        "type": "voice",
+        "from": "Jean",
+        "to": "Albedo"
+    },
+    {
+        "type": "story",
+        "from": "Barbara",
+        "to": "Jean"
+    },
+    {
+        "type": "story",
+        "from": "Eula",
+        "to": "Kaeya"
+    },
+    {
+        "type": "story",
+        "from": "Noelle",
+        "to": "Klee"
+    },
+    {
+        "type": "voice",
+        "from": "Ningguang",
+        "to": "Beidou"
+    },
+    {
+        "type": "voice",
+        "from": "Ningguang",
+        "to": "Xiangling"
+    },
+    {
+        "type": "story",
+        "from": "Hu Tao",
+        "to": "Qiqi"
+    },
+    {
+        "type": "voice",
+        "from": "Rosaria",
+        "to": "Klee"
+    },
+    {
+        "type": "voice",
+        "from": "Xiangling",
+        "to": "Diona"
+    },
+    {
+        "type": "story",
+        "from": "Xinyan",
+        "to": "Xiangling"
+    },
+    {
+        "type": "voice",
+        "from": "Xinyan",
+        "to": "Xiangling"
+    },
+    {
+        "type": "voice",
+        "from": "Albedo",
+        "to": "Barbara"
+    },
+    {
+        "type": "voice",
+        "from": "Beidou",
+        "to": "Xiangling"
+    },
+    {
+        "type": "voice",
+        "from": "Beidou",
+        "to": "Xiao"
+    },
+    {
+        "type": "story",
+        "from": "Kaedehara Kazuha",
+        "to": "Beidou"
+    },
+    {
+        "type": "story",
+        "from": "Hu Tao",
+        "to": "Chongyun"
+    },
+    {
+        "type": "voice",
+        "from": "Eula",
+        "to": "Razor"
+    },
+    {
+        "type": "voice",
+        "from": "Jean",
+        "to": "Diluc"
+    },
+    {
+        "type": "voice",
+        "from": "Kaeya",
+        "to": "Rosaria"
+    },
+    {
+        "type": "story",
+        "from": "Lisa",
+        "to": "Kaeya"
+    },
+    {
+        "type": "voice",
+        "from": "Keqing",
+        "to": "Ningguang"
+    },
+    {
+        "type": "voice",
+        "from": "Keqing",
+        "to": "Ningguang"
+    },
+    {
+        "type": "voice",
+        "from": "Ningguang",
+        "to": "Zhongli"
+    },
+    {
+        "type": "voice",
+        "from": "Noelle",
+        "to": "Amber"
+    },
+    {
+        "type": "voice",
+        "from": "Traveler",
+        "to": "Lisa"
+    },
+    {
+        "type": "voice",
+        "from": "Traveler",
+        "to": "Noelle"
+    },
+    {
+        "type": "voice",
+        "from": "Xingqiu",
+        "to": "Ningguang"
+    },
+    {
+        "type": "story",
+        "from": "Sucrose",
+        "to": "Albedo"
+    },
+    {
+        "type": "story",
+        "from": "Jean",
+        "to": "Barbara"
+    },
+    {
+        "type": "voice",
+        "from": "Bennett",
+        "to": "Fischl"
+    },
+    {
+        "type": "voice",
+        "from": "Chongyun",
+        "to": "Xinyan"
+    },
+    {
+        "type": "voice",
+        "from": "Eula",
+        "to": "Amber"
+    },
+    {
+        "type": "voice",
+        "from": "Eula",
+        "to": "Barbara"
+    },
+    {
+        "type": "voice",
+        "from": "Eula",
+        "to": "Yanfei"
+    },
+    {
+        "type": "voice",
+        "from": "Fischl",
+        "to": "Kaeya"
+    },
+    {
+        "type": "voice",
+        "from": "Ganyu",
+        "to": "Ningguang"
+    },
+    {
+        "type": "voice",
+        "from": "Hu Tao",
+        "to": "Chongyun"
+    },
+    {
+        "type": "voice",
+        "from": "Klee",
+        "to": "Bennett"
+    },
+    {
+        "type": "voice",
+        "from": "Lisa",
+        "to": "Fischl"
+    },
+    {
+        "type": "voice",
+        "from": "Rosaria",
+        "to": "Barbara"
+    },
+    {
+        "type": "voice",
+        "from": "Rosaria",
+        "to": "Albedo"
+    },
+    {
+        "type": "voice",
+        "from": "Sucrose",
+        "to": "Kaeya"
+    },
+    {
+        "type": "voice",
+        "from": "Sucrose",
+        "to": "Amber"
+    },
+    {
+        "type": "voice",
+        "from": "Tartaglia",
+        "to": "Zhongli"
+    },
+    {
+        "type": "voice",
+        "from": "Traveler",
+        "to": "Fischl"
+    },
+    {
+        "type": "voice",
+        "from": "Traveler",
+        "to": "Beidou"
+    },
+    {
+        "type": "voice",
+        "from": "Traveler",
+        "to": "Ningguang"
+    },
+    {
+        "type": "voice",
+        "from": "Xiangling",
+        "to": "Beidou"
+    },
+    {
+        "type": "voice",
+        "from": "Xinyan",
+        "to": "Hu Tao"
+    },
+    {
+        "type": "story",
+        "from": "Yanfei",
+        "to": "Xinyan"
+    },
+    {
+        "type": "voice",
+        "from": "Amber",
+        "to": "Lisa"
+    },
+    {
+        "type": "voice",
+        "from": "Diluc",
+        "to": "Diona"
+    },
+    {
+        "type": "voice",
+        "from": "Eula",
+        "to": "Venti"
+    },
+    {
+        "type": "voice",
+        "from": "Klee",
+        "to": "Razor"
+    },
+    {
+        "type": "voice",
+        "from": "Klee",
+        "to": "Kaeya"
+    },
+    {
+        "type": "story",
+        "from": "Bennett",
+        "to": "Klee"
+    },
+    {
+        "type": "voice",
+        "from": "Lisa",
+        "to": "Barbara"
+    },
+    {
+        "type": "story",
+        "from": "Jean",
+        "to": "Lisa"
+    },
+    {
+        "type": "voice",
+        "from": "Noelle",
+        "to": "Bennett"
+    },
+    {
+        "type": "voice",
+        "from": "Noelle",
+        "to": "Fischl"
+    },
+    {
+        "type": "voice",
+        "from": "Traveler",
+        "to": "Barbara"
+    },
+    {
+        "type": "voice",
+        "from": "Xingqiu",
+        "to": "Qiqi"
+    },
+    {
+        "type": "voice",
+        "from": "Yanfei",
+        "to": "Zhongli"
+    },
+    {
+        "type": "story",
+        "from": "Mona",
+        "to": "Albedo"
+    },
+    {
+        "type": "story",
+        "from": "Noelle",
+        "to": "Amber"
+    },
+    {
+        "type": "story",
+        "from": "Bennett",
+        "to": "Barbara"
+    },
+    {
+        "type": "voice",
+        "from": "Bennett",
+        "to": "Noelle"
+    },
+    {
+        "type": "voice",
+        "from": "Ganyu",
+        "to": "Xiangling"
+    },
+    {
+        "type": "story",
+        "from": "Zhongli",
+        "to": "Hu Tao"
+    },
+    {
+        "type": "voice",
+        "from": "Kaedehara Kazuha",
+        "to": "Kamisato Ayaka"
+    },
+    {
+        "type": "voice",
+        "from": "Kaeya",
+        "to": "Diona"
+    },
+    {
+        "type": "voice",
+        "from": "Kaeya",
+        "to": "Sucrose"
+    },
+    {
+        "type": "voice",
+        "from": "Keqing",
+        "to": "Zhongli"
+    },
+    {
+        "type": "voice",
+        "from": "Keqing",
+        "to": "Xinyan"
+    },
+    {
+        "type": "voice",
+        "from": "Keqing",
+        "to": "Xingqiu"
+    },
+    {
+        "type": "story",
+        "from": "Razor",
+        "to": "Klee"
+    },
+    {
+        "type": "voice",
+        "from": "Lisa",
+        "to": "Mona"
+    },
+    {
+        "type": "voice",
+        "from": "Mona",
+        "to": "Albedo"
+    },
+    {
+        "type": "voice",
+        "from": "Mona",
+        "to": "Kaeya"
+    },
+    {
+        "type": "voice",
+        "from": "Ningguang",
+        "to": "Beidou"
+    },
+    {
+        "type": "voice",
+        "from": "Razor",
+        "to": "Lisa"
+    },
+    {
+        "type": "voice",
+        "from": "Sucrose",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Sucrose",
+        "to": "Albedo"
+    },
+    {
+        "type": "voice",
+        "from": "Traveler",
+        "to": "Amber"
+    },
+    {
+        "type": "voice",
+        "from": "Xiangling",
+        "to": "Ningguang"
+    },
+    {
+        "type": "voice",
+        "from": "Xingqiu",
+        "to": "Beidou"
+    },
+    {
+        "type": "voice",
+        "from": "Xingqiu",
+        "to": "Zhongli"
+    },
+    {
+        "type": "voice",
+        "from": "Zhongli",
+        "to": "Xiao"
+    },
+    {
+        "type": "story",
+        "from": "Hu Tao",
+        "to": "Zhongli"
+    },
+    {
+        "type": "voice",
+        "from": "Barbara",
+        "to": "Bennett"
+    },
+    {
+        "type": "voice",
+        "from": "Diluc",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Diluc",
+        "to": "Eula"
+    },
+    {
+        "type": "story",
+        "from": "Diona",
+        "to": "Diluc"
+    },
+    {
+        "type": "voice",
+        "from": "Diona",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Eula",
+        "to": "Diluc"
+    },
+    {
+        "type": "voice",
+        "from": "Hu Tao",
+        "to": "Zhongli"
+    },
+    {
+        "type": "voice",
+        "from": "Hu Tao",
+        "to": "Ningguang"
+    },
+    {
+        "type": "voice",
+        "from": "Hu Tao",
+        "to": "Beidou"
+    },
+    {
+        "type": "voice",
+        "from": "Hu Tao",
+        "to": "Xiao"
+    },
+    {
+        "type": "story",
+        "from": "Noelle",
+        "to": "Jean"
+    },
+    {
+        "type": "voice",
+        "from": "Kaeya",
+        "to": "Noelle"
+    },
+    {
+        "type": "story",
+        "from": "Klee",
+        "to": "Kaeya"
+    },
+    {
+        "type": "voice",
+        "from": "Keqing",
+        "to": "Ganyu"
+    },
+    {
+        "type": "story",
+        "from": "Mona",
+        "to": "Klee"
+    },
+    {
+        "type": "voice",
+        "from": "Mona",
+        "to": "Klee"
+    },
+    {
+        "type": "voice",
+        "from": "Ningguang",
+        "to": "Jean"
+    },
+    {
+        "type": "story",
+        "from": "Beidou",
+        "to": "Ningguang"
+    },
+    {
+        "type": "voice",
+        "from": "Traveler",
+        "to": "Diluc"
+    },
+    {
+        "type": "voice",
+        "from": "Venti",
+        "to": "Albedo"
+    },
+    {
+        "type": "voice",
+        "from": "Yanfei",
+        "to": "Qiqi"
+    },
+    {
+        "type": "voice",
+        "from": "Zhongli",
+        "to": "Venti"
+    },
+    {
+        "type": "voice",
+        "from": "Zhongli",
+        "to": "Hu Tao"
+    }
+]
