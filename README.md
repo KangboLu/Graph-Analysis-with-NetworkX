@@ -38,5 +38,34 @@ Notebook part 1 covers how to calculate and interpret graph statistics for the f
     * Periphery
 
 ![Karate Network](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/03_karate_graph_overall.png)
+
+#### Karate Network with Center Visualized:
 ![Karate Network with Center Visualized](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/03_karate_graph_center.png)
+
+#### Karate Network with Periphery Visualized:
 ![Karate Network with Periphery Visualized](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/03_karate_graph_periphery.png)
+
+[Click here to see the notebook part 2](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/03_graph_statistics_part_2.ipynb)
+
+Notebook part 2 covers how to calculate and interpret graph statistics for the following topic:
+1. Connectivity:  
+    * Strongly Connected
+    * Weakly Connected
+2. Robustness:
+    * Density
+    * Node Connectivity
+    * Min Node CUt
+    * Edge Connectivity
+    * Min Edge Cut
+    * Isolates
+
+![Sucrose Neighbors](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/03_sucrose_neighbor_nodes.png)
+
+#### Mutual Connection:
+![Mutual Connection](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/03_genshin_impact_mutual_connection.png)
+
+#### Min Node Cut Example:
+![Min Node Cut](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/03_genshin_impact_min_node_cut.png)
+
+#### Min Edge Cut Example:
+![Min Edge Cut](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/03_genshin_impact_min_edge_cut.png)
