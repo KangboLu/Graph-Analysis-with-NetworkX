@@ -25,7 +25,7 @@ This notebook covers how to create visualization using the spring layout in Netw
 
 [Click here to see the notebook part 1](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/03_graph_statistics_part_1.ipynb)
 
-Notebook part 1 covers how to calculate and interpret graph statistics for the following topic:
+Notebook 3 part 1 covers how to calculate and interpret graph statistics for the following topic:
 1. Triadic Closer:  
     * Local Clustering Coefficient (LCC)  
     * Global Clustering Coefficient (GCC): Average LCC and Transitivity  
@@ -47,7 +47,7 @@ Notebook part 1 covers how to calculate and interpret graph statistics for the f
 
 [Click here to see the notebook part 2](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/03_graph_statistics_part_2.ipynb)
 
-Notebook part 2 covers how to calculate and interpret graph statistics for the following topic:
+Notebook 3 part 2 covers how to calculate and interpret graph statistics for the following topic:
 1. Connectivity:  
     * Strongly Connected
     * Weakly Connected
@@ -69,3 +69,20 @@ Notebook part 2 covers how to calculate and interpret graph statistics for the f
 
 #### Min Edge Cut Example:
 ![Min Edge Cut](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/03_genshin_impact_min_edge_cut.png)
+
+[Click here to see the notebook part 3](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/03_graph_statistics_part_3.ipynb)
+
+Notebook 3 part 3 covers how to calculate and interpret graph statistics for the following topic:
+1. Centreality (Node Importance):  
+    * Degree Centrality
+    * CLoseness Centrality
+    * Node Betweenness Centrality
+    * Edge Betweenness Centrality
+    * PageRank Centrality with PageRank Algorithm
+    * Auth and Hub Centrality with HITS Algorithm
+2. Centrality Ranking by Averging Centrality Measures
+#### Summary Table for Centrality Measures:
+![Summary Table for Centrality Measures](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/03_genshin_impact_centrality_summary.png)
+
+#### Final Output of Averaging Centrality Ranking:
+![Final Output of Averaging Centrality Ranking](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/03_genshin_impact_average_rank.png)
