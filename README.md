@@ -86,3 +86,16 @@ Notebook 3 part 3 covers how to calculate and interpret graph statistics for the
 
 #### Final Output of Averaging Centrality Ranking:
 ![Final Output of Averaging Centrality Ranking](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/03_genshin_impact_average_rank.png)
+
+## Notebook 4: Graph Link Prediction:
+
+[Click here to see the notebook part 1](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/04_link_prediction_measures_part_1.ipynb)
+
+Notebook 4 part 1 covers how to calculate and interpret the below common link prediction features: 
+1. Non-community Based Measures
+    * The Number of Common Neighbors
+    * Jaccard Coefficient
+    * Resource Allocation Index
+#### Visualizing the Common Neighbors for Potential Connection between Node 2 and Node 33
+![Common Neighbors for Potential Connection between Node 2 and Node 33](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/04_karate_graph_common_neighbors_node_2_33.png)
+
