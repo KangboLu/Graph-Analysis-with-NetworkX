@@ -96,6 +96,8 @@ Notebook 4 part 1 covers how to calculate and interpret the below common link pr
     * The Number of Common Neighbors
     * Jaccard Coefficient
     * Resource Allocation Index
+    * Adamic-Adar Index
+    * Preferential Attachment
 #### Visualizing the Common Neighbors for Potential Connection between Node 2 and Node 33
 ![Common Neighbors for Potential Connection between Node 2 and Node 33](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/04_karate_graph_common_neighbors_node_2_33.png)
 
