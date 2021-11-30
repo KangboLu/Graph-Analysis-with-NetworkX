@@ -101,3 +101,14 @@ Notebook 4 part 1 covers how to calculate and interpret the below common link pr
 #### Visualizing the Common Neighbors for Potential Connection between Node 2 and Node 33
 ![Common Neighbors for Potential Connection between Node 2 and Node 33](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/04_karate_graph_common_neighbors_node_2_33.png)
 
+## Notebook 5: Graph Community Detection Algorithms:
+
+[Click here to see the notebook](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/05_community_detection.ipynb)
+
+Notebook 5 covers how to use implemented community detection algorithms in NetworkX, python-louvain, and leidenalg
+1. Community Detection Algorithms:
+    * Girvan-Newman
+    * Label-Propagation
+    * Louvain
+#### Visualizing the community partition by Louvain Algorithm:
+![Louvain Algorithm Partition Output](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/05_louvain_community_visualization.png)
