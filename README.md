@@ -110,5 +110,6 @@ Notebook 5 covers how to use implemented community detection algorithms in Netwo
     * Girvan-Newman
     * Label-Propagation
     * Louvain
+    * Leiden
 #### Visualizing the community partition by Louvain Algorithm:
 ![Louvain Algorithm Partition Output](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/05_louvain_community_visualization.png)
