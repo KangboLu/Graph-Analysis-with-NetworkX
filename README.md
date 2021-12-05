@@ -113,3 +113,18 @@ Notebook 5 covers how to use implemented community detection algorithms in Netwo
     * Leiden
 #### Visualizing the community partition by Louvain Algorithm:
 ![Louvain Algorithm Partition Output](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/05_louvain_community_visualization.png)
+
+
+## Notebook 6: Comparison of Louvain and Leiden for Community Detection:
+
+[Click here to see the notebook](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/06_Louvain_Leiden_comparison.ipynb)
+
+Stanford Network Analysis Project dataset is used for comparing performance: [DBLP collaboration network](https://snap.stanford.edu/data/com-DBLP.html)
+| node total | edge total | Average clustering coefficient |
+|------------|------------|--------------------------------|
+| 317,080    | 1,049,866  | 0.6324                         |
+
+Notebook 6 compares the community detection results using Louvain and Leiden algorithms in open source Python package called [python-louvain](https://github.com/taynaud/python-louvain) and [leidenalg](https://github.com/vtraag/leidenalg/). The notebook will highlight the disadvanatge sof Louvain algorithm and demonstrate why Leiden may be the algorithm you want to use for community detection.
+
+#### Visualizing the disconnected community partition by Louvain Algorithm:
+![Louvain Algorithm Partition Disconnected Output](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/06_louvain_disconnected_community.png)
