@@ -1,6 +1,17 @@
 # Graph-Analysis-with-NetworkX
 Graph Analysis with NetworkX
 
+# Dependencies:
+The [`environment.yml`](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/environment.yml) YAML file in the root folder has the exact conda environment I used for this project.  
+The [`requirements.txt`](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/requirements.txt) text file in the root folder has the exact Python environment I used for this project.  
+* Option 1: **Run below with conda to create a new environment** to have the exact same environment I used for running the notebooks:  
+`conda env create -f environment.yml` will create a conda environment called `network_analysis`.    
+Then, you can run `conda env list` to view your existing environments.  
+You can run `conda activate network_analysis` to use the new environment.
+
+* Option 2: **If you don't want to use conda to create a environment**, you can try install Python packages I used with the following command:  
+`pip install -r requirements.txt`
+
 ## Notebook 1: Graph Types:
 
 [Click here to see the notebook](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/01_graph_types.ipynb)
