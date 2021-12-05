@@ -126,5 +126,13 @@ Stanford Network Analysis Project dataset is used for comparing performance: [DB
 
 Notebook 6 compares the community detection results using Louvain and Leiden algorithms in open source Python package called [python-louvain](https://github.com/taynaud/python-louvain) and [leidenalg](https://github.com/vtraag/leidenalg/). The notebook will highlight the disadvanatge sof Louvain algorithm and demonstrate why Leiden may be the algorithm you want to use for community detection.
 
+|            | Louvain  | Leiden   |
+|------------|----------|----------|
+| Modularity | 0.821751 | 0.830028 |
+
+|                        | Louvain | Leiden |
+|------------------------|---------|--------|
+| Disconnected Community | 5       | 0      |
+
 #### Visualizing the disconnected community partition by Louvain Algorithm:
 ![Louvain Algorithm Partition Disconnected Output](https://github.com/KangboLu/Graph-Analysis-with-NetworkX/blob/main/graph_img/06_louvain_disconnected_community.png)
